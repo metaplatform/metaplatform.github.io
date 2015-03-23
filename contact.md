@@ -29,4 +29,4 @@ Visit official [GitHub organization page](https://github.com/metaplatform/) or i
 
 Most projects are licensed under MIT or GNUGPL licenses. Please see project repositories for concrete licensing info.
 
-MetaPlatform projects are published under head of [Cryonix Innovations](http://www.cryonix.cz/)
+MetaPlatform projects are published under head of [Cryonix Innovations](http://www.cryonix.cz/).
