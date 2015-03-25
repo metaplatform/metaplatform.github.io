@@ -7,7 +7,6 @@ heading: "META Codebase"
 description: "Products and tools to build rich web applications."
 
 products_class: projects
-header_compact: true
 ---
 
 ## What is MetaPlatform?
